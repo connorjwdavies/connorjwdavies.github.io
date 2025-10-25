@@ -1,5 +1,10 @@
+body{
+  background-color: black;
+}
+
 * {
-  font-family: Arial;
+  font-family: Courier New;
+  color: white;
 }
 
 h1 {
