@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Connor Davies",
+    "description": "",
+    "home_page_url": "https://connordavies.co.uk",
+    "feed_url": "https://connordavies.co.uk/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Connor Davies"
+    },
+    "items": [
+    ]
+}
